@@ -4,7 +4,7 @@
 
 I build automation and data solutions for trade, legal, and compliance content. My Python and Claude-powered link monitoring automation saves my team about 1,408 hours a year, and I'm applying machine learning and LLMs to similar real-world problems.
 
-🎓 BSc Data Science · MCA (in progress) · 📍 Hyderabad, India
+🎓 BSc Data Science · MCA · 📍 Hyderabad, India
 
 ## 🔭 What I'm working on
 - 📊 Customer Churn Prediction (Python, scikit-learn)
