@@ -21,7 +21,7 @@ I build automation and data solutions for trade, legal, and compliance content. 
 ## 📂 Projects
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| [Customer Churn Prediction](https://github.com/Pooja012/customer-churn-prediction) | Predicting which telecom customers will leave | Python, scikit-learn | In progress |
+| [Customer Churn Prediction](https://github.com/Pooja012/customer-churn-prediction) | Predicting which telecom customers will leave | Python, scikit-learn | Completed |
 | [Retail Sales Analysis](https://github.com/Pooja012/Retail_sales.SQL) | End-to-end sales analysis with data cleaning, SQL queries, and dashboards | SQL, Excel | Completed |
 | [Netflix Data Analysis](https://github.com/Pooja012/netflix.project) | Business insights and interactive dashboards from Netflix content data | SQL, Tableau | Completed |
 | [ShopSmart Sales Analytics](https://github.com/Pooja012/shopsmart-sql-analytics) | Sales analytics queries for a retail business | SQL | Completed |
